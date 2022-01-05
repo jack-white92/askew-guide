@@ -21,3 +21,8 @@ body{
   transform: rotate(10deg);
 }
 ```
+
+7. [optional] change the value in the brackest  to adjust the level of skew
+
+8. Save the changes, refresh your pages and enjoy 
+
